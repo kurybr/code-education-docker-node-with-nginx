@@ -1,0 +1,8 @@
+{
+  "name": "code-education-docker-node-with-nginx",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:kurybr/code-education-docker-node-with-nginx.git",
+  "author": "Jorge Soares <jorge.soares@fix.com.br>",
+  "license": "MIT"
+}
